@@ -3,7 +3,7 @@
 - 🌱 I’m currently a computer eng. student
 - 💞️ I’m looking to collaborate on any projects
 - 📫 you can reach me with my email : ququmaker9@gmail.com
-- 💻 Visit my website : [https://ti-03.github.io](ti-03.github.io/)
+- 💻 Visit my website : [Ti-03.github.io](https://ti-03.github.io/)
 
 <!---
 Ti-03/Ti-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
