@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev, web and programming in general
 - 🌱 I’m currently a computer eng. student
 - 💞️ I’m looking to collaborate on any projects
-- 📫 you can reach me with my email : ququmaker9@gmail.com
+- 📫 you can reach me with my email : qutibah.an3@gmail.com
 - 💻 Visit my website : [Ti-03.github.io](https://ti-03.github.io/)
 
 <!---
