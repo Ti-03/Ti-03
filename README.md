@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @Ti-03
-- 👀 I’m interested in game dev, web and programming in general
-- 🌱 I’m currently a computer eng. student
-- 💞️ I’m looking to collaborate on any projects
-- 📫 you can reach me with my email : qutibah.an3@gmail.com
-- 💻 Visit my website : [Ti-03.github.io](https://ti-03.github.io/)
+<div align="center">
 
-<!---
-Ti-03/Ti-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Qutibah Ananzeh 👋
+### AI & Software Developer | Computer Engineer 
+*Robotics • Machine Learning • Web Development • Simulation*
+
+<br>
+
+
+<a href="mailto:qutibah.an3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/qutibah-nanzeh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Smart+AI+Systems;Developing+Autonomous+Robots;Creating+Modern+Web+Apps;Exploring+Computer+Vision" alt="Typing SVG" />
+
+</div>
+
+<br>
+
