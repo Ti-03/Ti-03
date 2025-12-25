@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Smart+AI+Systems;Developing+Autonomous+Robots;Creating+Modern+Web+Apps;Exploring+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+AI+Systems;Developing+Autonomous+Robots;Creating+Web+Apps;Exploring+Computer+Vision" alt="Typing SVG" />
 
 </div>
 
