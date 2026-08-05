@@ -1,0 +1,36 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="bloom" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="300" height="300" fill="#0a0a0a"/>
+
+  <!-- outer ring, static -->
+  <circle cx="150" cy="150" r="95" fill="none" stroke="#2a2a2a" stroke-width="1.5"/>
+
+  <!-- pupil: one continuous, constant-speed orbit around the socket -->
+  <g>
+    <animateMotion
+      path="M172,150 A22,13 0 1 1 128,150 A22,13 0 1 1 172,150"
+      dur="10s" repeatCount="indefinite" calcMode="paced"/>
+    <!-- blink, every 4s, independent of the orbit -->
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+        values="1 1;1 1;1 0.9;1 0.03;1 0.9;1 1;1 1"
+        keyTimes="0;0.42;0.46;0.5;0.54;0.58;1"
+        dur="4s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.45 0 0.55 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.45 0 0.55 1"/>
+      <ellipse cx="0" cy="0" rx="34" ry="34" fill="#f3f2ee" filter="url(#bloom)">
+        <animate attributeName="rx" values="34;36;34" keyTimes="0;0.5;1"
+          dur="4.5s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="ry" values="34;36;34" keyTimes="0;0.5;1"
+          dur="4.5s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      </ellipse>
+    </g>
+  </g>
+</svg>
