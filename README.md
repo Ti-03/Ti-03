@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/eye.svg" width="220" height="220" alt="Ti">
-
 # Ti
 Computer engineer, AI and robotics.
 
