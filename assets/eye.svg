@@ -6,8 +6,6 @@
     </filter>
   </defs>
 
-  <rect width="300" height="300" fill="#0a0a0a"/>
-
   <!-- outer ring, static -->
   <circle cx="150" cy="150" r="95" fill="none" stroke="#2a2a2a" stroke-width="1.5"/>
 
